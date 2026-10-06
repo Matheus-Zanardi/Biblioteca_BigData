@@ -1,5 +1,13 @@
 # Sistema de Empréstimo de Livros
 
+##Integrantes do Grupo
+Augusto Fisco Milreu - RM98245
+David Denunci - RM98603
+Fernando Popolili - RM99919
+Matheus Zanardi - RM98832
+Pedro Gava - RM551043
+
+
 Backend em Python + MongoDB para a biblioteca da faculdade.
 
 ## Como rodar
