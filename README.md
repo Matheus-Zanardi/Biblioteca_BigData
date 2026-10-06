@@ -4,6 +4,7 @@
 - Augusto Fisco Milreu - RM98245
 - David Denunci - RM98603
 - Fernando Popolili - RM99919
+- Lucas Toledo - RM97913
 - Matheus Zanardi - RM98832
 - Pedro Gava - RM551043
 
